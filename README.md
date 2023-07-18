@@ -44,12 +44,11 @@ producto legendario y su `price` es fijo en 80, nunca cambia.
 - **El producto `Super Sale` No funciona correctamente, debes implementarlo.**
 
 ## Que evaluaremos
-- La solución debe ser orientada a objetos
 - Debe ser escalable y fácil de mantener en el futuro.
 - Mensajes de commit entendibles. Leeremos la aproximación a la solución a traves de los commits.
 - Esperamos que la solución esté en Node.js (>8) o Java. Otras tecnologías son bienvenidas siempre que esté acompañado de un `Dockerfile` con todas sus dependencias incorporadas.
 - Debería estar completamente testeado.
-- El código debe ser limpio y fácil de entender
+- El código debe ser limpio y fácil de entender.
 
 ## Comandos requeridos
 - `npm run test`, Correr los test y mostrar el coverage.
