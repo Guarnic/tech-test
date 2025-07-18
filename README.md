@@ -36,8 +36,4 @@ new Product('Mega Coverage', 0, 80),
 new Product('Super Sale', 3, 6), // ← Este tiene bugs
 ```
 
-## Criterios de Evaluación
-- **Clean Code**: Funciones pequeñas, nombres claros, principios SOLID
-- **Escalabilidad**: Fácil agregar nuevos tipos de productos
-- **Testing**: Casos de uso bien cubiertos
-- **Refactoring**: Mejora del código manteniendo funcionalidad
+## Mucha suerte! 🚀
